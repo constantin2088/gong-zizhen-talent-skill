@@ -1,0 +1,19 @@
+{
+  "intents": [
+    "排错能力评价"
+  ],
+  "elements": [
+    {
+      "id": "e1",
+      "intent": "排错能力评价",
+      "observation": "设置真实排错作品展示路径",
+      "reason": "匹配岗位能力"
+    }
+  ],
+  "required_info": [
+    {
+      "id": "日期",
+      "visible": true
+    }
+  ]
+}
